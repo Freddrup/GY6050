@@ -13,3 +13,7 @@ open the readme.txt for more info and a tutorial on how to use this library !!!
 
 Thanks for reading this,
 Frédéric Druppel.
+
+#P.S.:
+When you have unzipped the .zip file, remove "-master" from the name of the folder.
+Otherwhise, the library could not work properly.
