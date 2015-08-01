@@ -16,4 +16,4 @@ Frédéric Druppel.
 
 #P.S.:
 When you have unzipped the .zip file, remove "-master" from the name of the folder before installing the library.
-Otherwhise, the library could not work properly.
+Otherwise, the library could not work properly.
